@@ -1,0 +1,443 @@
+Station Name,Parameter Name,Parameter Abbreviation,Sample Date,Sample Time,Result Value (10% of RDL for NDs),Result Text,Units,RDL,Detected (Y: Yes; N: No),Laboratory Sample Number,Method
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,1/9/2019,14:10,0.4,ND,ng/L,4,N,19010196-02,537
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,1/17/2019,14:15,0.4,ND,ng/L,4,N,19010402-02,537
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,2/5/2019,13:45,0.4,ND,ng/L,4,N,19020068-02,537
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,2/20/2019,13:00,0.4,ND,ng/L,4,N,19020428-02,537
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,3/21/2019,11:50,0.4,ND,ng/L,4,N,19030524-02,537RV1.1
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,4/9/2019,11:45,0.4,ND,ng/L,4,N,19040286-02,537RV1.1
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,5/7/2019,9:50,0.4,ND,ng/L,4,N,19050172-02,537RV1.1
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,6/4/2019,11:35,0.4,ND,ng/L,4,N,19060084-02,537RV1.1
+SAR-IMPERIAL-01,N-methyl perfluorooctanesulfonamidoacetic acid,MeFOSA,1/9/2019,14:10,0.4,ND,ng/L,4,N,19010196-02,537
+SAR-IMPERIAL-01,N-methyl perfluorooctanesulfonamidoacetic acid,MeFOSA,1/17/2019,14:15,0.4,ND,ng/L,4,N,19010402-02,537
+SAR-IMPERIAL-01,N-methyl perfluorooctanesulfonamidoacetic acid,MeFOSA,2/5/2019,13:45,0.4,ND,ng/L,4,N,19020068-02,537
+SAR-IMPERIAL-01,N-methyl perfluorooctanesulfonamidoacetic acid,MeFOSA,2/20/2019,13:00,0.4,ND,ng/L,4,N,19020428-02,537
+SAR-IMPERIAL-01,N-methyl perfluorooctanesulfonamidoacetic acid,MeFOSA,3/21/2019,11:50,0.4,ND,ng/L,4,N,19030524-02,537RV1.1
+SAR-IMPERIAL-01,N-methyl perfluorooctanesulfonamidoacetic acid,MeFOSA,4/9/2019,11:45,0.4,ND,ng/L,4,N,19040286-02,537RV1.1
+SAR-IMPERIAL-01,N-methyl perfluorooctanesulfonamidoacetic acid,MeFOSA,5/7/2019,9:50,0.4,ND,ng/L,4,N,19050172-02,537RV1.1
+SAR-IMPERIAL-01,N-methyl perfluorooctanesulfonamidoacetic acid,MeFOSA,6/4/2019,11:35,0.4,ND,ng/L,4,N,19060084-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,6/14/2016,12:10,9,ND,ng/L,90,N,16060368-19,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,7/5/2016,11:35,9,ND,ng/L,90,N,16070079-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,7/14/2016,9:30,9,ND,ng/L,90,N,16070370-01,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,7/26/2016,8:40,9,ND,ng/L,90,N,16070714-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,8/9/2016,11:55,9,ND,ng/L,90,N,16080311-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,8/23/2016,11:45,6.44,6.44,ng/L,4,Y,16080703-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,9/6/2016,9:10,10.7,10.7,ng/L,4,Y,16090097-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,10/17/2016,11:35,9.8,9.8,ng/L,4,Y,16100490-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,11/2/2016,11:30,11,11.0,ng/L,4,Y,16110096-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,1/19/2017,8:30,4,4.0,ng/L,4,Y,17010533-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,2/1/2017,8:45,5.6,5.6,ng/L,4,Y,17020048-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,2/14/2017,11:45,5.5,5.5,ng/L,4,Y,17020372-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,2/28/2017,10:45,8.8,8.8,ng/L,4,Y,17020707-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,3/14/2017,10:30,7.5,7.5,ng/L,4,Y,17030363-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,3/28/2017,8:45,9.1,9.1,ng/L,4,Y,17030715-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,4/11/2017,11:50,10.7,10.7,ng/L,4,Y,17040341-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,4/24/2017,10:50,12.6,12.6,ng/L,4,Y,17040732-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,4/25/2017,14:15,12.1,12.1,ng/L,4,Y,17040815-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,5/9/2017,11:30,12.3,12.3,ng/L,4,Y,17050282-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,5/22/2017,12:05,11.9,11.9,ng/L,4,Y,17050689-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,6/6/2017,8:50,13.9,13.9,ng/L,4,Y,17060172-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,6/21/2017,9:25,11.4,11.4,ng/L,4,Y,17060591-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,6/28/2017,9:20,12.4,12.4,ng/L,4,Y,17060805-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,7/18/2017,12:10,11.9,11.9,ng/L,4,Y,17070563-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,8/1/2017,13:00,13.3,13.3,ng/L,4,Y,17080025-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,8/29/2017,10:10,11,11.0,ng/L,4,Y,17080783-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,9/29/2017,10:30,12.2,12.2,ng/L,4,Y,17090751-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,10/11/2017,12:40,11.5,11.5,ng/L,4,Y,17100389-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,11/8/2017,10:20,11.3,11.3,ng/L,4,Y,17110223-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,11/20/2017,11:40,8.7,8.7,ng/L,4,Y,17110511-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,1/9/2018,13:30,8.9,8.9,ng/L,4,Y,18010222-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,1/10/2018,9:20,9,9.0,ng/L,4,Y,18010262-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,2/21/2018,12:55,14.5,14.5,ng/L,4,Y,18020589-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,3/6/2018,12:30,8.9,8.9,ng/L,2,Y,440-205458-1,537MOD
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,3/6/2018,12:30,10.7,10.7,ng/L,4,Y,18030133-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,4/25/2018,10:00,10.7,10.7,ng/L,4,Y,18040717-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,5/22/2018,14:05,10.9,10.9,ng/L,4,Y,18050579-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,6/5/2018,11:55,14.8,14.8,ng/L,4,Y,18060104-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,7/23/2018,10:25,11.4,11.4,ng/L,4,Y,18070599-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,8/14/2018,11:50,9.9,9.9,ng/L,4,Y,18080368-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,9/18/2018,12:00,14.8,14.8,ng/L,4,Y,18090350-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,10/22/2018,12:35,11.8,11.8,ng/L,4,Y,18100715-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,11/7/2018,9:45,11.1,11.1,ng/L,4,Y,18110189-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,12/4/2018,13:15,10,10.0,ng/L,4,Y,18120064-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,12/18/2018,13:15,11.8,11.8,ng/L,4,Y,18120400-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,1/9/2019,14:10,12.9,12.9,ng/L,4,Y,19010196-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,1/17/2019,14:15,5.3,5.3,ng/L,4,Y,19010402-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,2/5/2019,13:45,5.3,5.3,ng/L,4,Y,19020068-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,2/20/2019,13:00,6.6,6.6,ng/L,4,Y,19020428-02,537
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,3/21/2019,11:50,11,11.0,ng/L,4,Y,19030524-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,4/9/2019,11:45,10.8,10.8,ng/L,4,Y,19040286-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,5/7/2019,9:50,10.1,10.1,ng/L,4,Y,19050172-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro butane sulfonic acid,PFBS,6/4/2019,11:35,12.9,12.9,ng/L,4,Y,19060084-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,6/14/2016,12:10,1,ND,ng/L,10,N,16060368-19,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,7/5/2016,11:35,1,ND,ng/L,10,N,16070079-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,7/14/2016,9:30,1,ND,ng/L,10,N,16070370-01,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,7/26/2016,8:40,1,ND,ng/L,10,N,16070714-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,8/9/2016,11:55,1,ND,ng/L,10,N,16080311-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,8/23/2016,11:45,0.4,ND,ng/L,4,N,16080703-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,9/6/2016,9:10,4.34,4.34,ng/L,4,Y,16090097-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,10/17/2016,11:35,10.9,10.9,ng/L,4,Y,16100490-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,11/2/2016,11:30,5.5,5.5,ng/L,4,Y,16110096-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,1/19/2017,8:30,0.4,ND,ng/L,4,N,17010533-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,2/1/2017,8:45,4.3,4.3,ng/L,4,Y,17020048-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,2/14/2017,11:45,4.2,4.2,ng/L,4,Y,17020372-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,2/28/2017,10:45,6.7,6.7,ng/L,4,Y,17020707-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,3/14/2017,10:30,5,5.0,ng/L,4,Y,17030363-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,3/28/2017,8:45,5.8,5.8,ng/L,4,Y,17030715-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,4/11/2017,11:50,6.6,6.6,ng/L,4,Y,17040341-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,4/24/2017,10:50,5.6,5.6,ng/L,4,Y,17040732-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,4/25/2017,14:15,5.7,5.7,ng/L,4,Y,17040815-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,5/9/2017,11:30,7.4,7.4,ng/L,4,Y,17050282-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,5/22/2017,12:05,5.4,5.4,ng/L,4,Y,17050689-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,6/6/2017,8:50,5,5.0,ng/L,4,Y,17060172-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,6/21/2017,9:25,5.1,5.1,ng/L,4,Y,17060591-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,6/28/2017,9:20,4.6,4.6,ng/L,4,Y,17060805-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,7/18/2017,12:10,5.5,5.5,ng/L,4,Y,17070563-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,8/1/2017,13:00,5.6,5.6,ng/L,4,Y,17080025-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,8/29/2017,10:10,5,5.0,ng/L,4,Y,17080783-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,9/29/2017,10:30,5.4,5.4,ng/L,4,Y,17090751-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,10/11/2017,12:40,5.3,5.3,ng/L,4,Y,17100389-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,11/8/2017,10:20,5.3,5.3,ng/L,4,Y,17110223-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,11/20/2017,11:40,0.4,ND,ng/L,4,N,17110511-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,1/9/2018,13:30,9.7,9.7,ng/L,4,Y,18010222-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,1/10/2018,9:20,8.9,8.9,ng/L,4,Y,18010262-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,2/21/2018,12:55,6,6.0,ng/L,4,Y,18020589-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,3/6/2018,12:30,5.7,5.7,ng/L,2,Y,440-205458-1,537MOD
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,3/6/2018,12:30,5.5,5.5,ng/L,4,Y,18030133-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,4/25/2018,10:00,5.2,5.2,ng/L,4,Y,18040717-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,5/22/2018,14:05,4.6,4.6,ng/L,4,Y,18050579-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,6/5/2018,11:55,6.2,6.2,ng/L,4,Y,18060104-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,7/23/2018,10:25,4.9,4.9,ng/L,4,Y,18070599-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,8/14/2018,11:50,4.7,4.7,ng/L,4,Y,18080368-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,9/18/2018,12:00,6.1,6.1,ng/L,4,Y,18090350-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,10/22/2018,12:35,6.5,6.5,ng/L,4,Y,18100715-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,11/7/2018,9:45,5.3,5.3,ng/L,4,Y,18110189-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,12/4/2018,13:15,5.8,5.8,ng/L,4,Y,18120064-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,12/18/2018,13:15,5.4,5.4,ng/L,4,Y,18120400-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,1/9/2019,14:10,5.7,5.7,ng/L,4,Y,19010196-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,1/17/2019,14:15,0.4,ND,ng/L,4,N,19010402-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,2/5/2019,13:45,0.4,ND,ng/L,4,N,19020068-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,2/20/2019,13:00,4.7,4.7,ng/L,4,Y,19020428-02,537
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,3/21/2019,11:50,5.4,5.4,ng/L,4,Y,19030524-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,4/9/2019,11:45,5.6,5.6,ng/L,4,Y,19040286-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,5/7/2019,9:50,8.3,8.3,ng/L,4,Y,19050172-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro heptanoic acid,PFHpA,6/4/2019,11:35,7.8,7.8,ng/L,4,Y,19060084-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,6/14/2016,12:10,3,ND,ng/L,30,N,16060368-19,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,7/5/2016,11:35,3,ND,ng/L,30,N,16070079-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,7/14/2016,9:30,3,ND,ng/L,30,N,16070370-01,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,7/26/2016,8:40,3,ND,ng/L,30,N,16070714-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,8/9/2016,11:55,3,ND,ng/L,30,N,16080311-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,8/23/2016,11:45,4.96,4.96,ng/L,4,Y,16080703-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,9/6/2016,9:10,7.87,7.87,ng/L,4,Y,16090097-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,10/17/2016,11:35,6.7,6.7,ng/L,4,Y,16100490-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,11/2/2016,11:30,6.4,6.4,ng/L,4,Y,16110096-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,1/19/2017,8:30,0.4,ND,ng/L,4,N,17010533-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,2/1/2017,8:45,4.4,4.4,ng/L,4,Y,17020048-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,2/14/2017,11:45,4.5,4.5,ng/L,4,Y,17020372-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,2/28/2017,10:45,7.6,7.6,ng/L,4,Y,17020707-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,3/14/2017,10:30,6.3,6.3,ng/L,4,Y,17030363-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,3/28/2017,8:45,8,8.0,ng/L,4,Y,17030715-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,4/11/2017,11:50,8.7,8.7,ng/L,4,Y,17040341-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,4/24/2017,10:50,11.2,11.2,ng/L,4,Y,17040732-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,4/25/2017,14:15,10.6,10.6,ng/L,4,Y,17040815-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,5/9/2017,11:30,9.8,9.8,ng/L,4,Y,17050282-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,5/22/2017,12:05,9.7,9.7,ng/L,4,Y,17050689-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,6/6/2017,8:50,10.3,10.3,ng/L,4,Y,17060172-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,6/21/2017,9:25,10.3,10.3,ng/L,4,Y,17060591-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,6/28/2017,9:20,10.8,10.8,ng/L,4,Y,17060805-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,7/18/2017,12:10,9.5,9.5,ng/L,4,Y,17070563-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,8/1/2017,13:00,11,11.0,ng/L,4,Y,17080025-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,8/29/2017,10:10,8.6,8.6,ng/L,4,Y,17080783-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,9/29/2017,10:30,9,9.0,ng/L,4,Y,17090751-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,10/11/2017,12:40,8.5,8.5,ng/L,4,Y,17100389-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,11/8/2017,10:20,8.8,8.8,ng/L,4,Y,17110223-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,11/20/2017,11:40,7,7.0,ng/L,4,Y,17110511-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,1/9/2018,13:30,5.6,5.6,ng/L,4,Y,18010222-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,1/10/2018,9:20,4.9,4.9,ng/L,4,Y,18010262-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,2/21/2018,12:55,11,11.0,ng/L,4,Y,18020589-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,3/6/2018,12:30,9.8,9.8,ng/L,2,Y,440-205458-1,537MOD
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,3/6/2018,12:30,8.5,8.5,ng/L,4,Y,18030133-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,4/25/2018,10:00,7.5,7.5,ng/L,4,Y,18040717-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,5/22/2018,14:05,7.6,7.6,ng/L,4,Y,18050579-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,6/5/2018,11:55,12.5,12.5,ng/L,4,Y,18060104-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,7/23/2018,10:25,7,7.0,ng/L,4,Y,18070599-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,8/14/2018,11:50,6.9,6.9,ng/L,4,Y,18080368-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,9/18/2018,12:00,9.8,9.8,ng/L,4,Y,18090350-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,10/22/2018,12:35,7.6,7.6,ng/L,4,Y,18100715-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,11/7/2018,9:45,7.8,7.8,ng/L,4,Y,18110189-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,12/4/2018,13:15,6.6,6.6,ng/L,4,Y,18120064-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,12/18/2018,13:15,8.5,8.5,ng/L,4,Y,18120400-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,1/9/2019,14:10,12,12.0,ng/L,4,Y,19010196-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,1/17/2019,14:15,0.4,ND,ng/L,4,N,19010402-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,2/5/2019,13:45,4.4,4.4,ng/L,4,Y,19020068-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,2/20/2019,13:00,5.3,5.3,ng/L,4,Y,19020428-02,537
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,3/21/2019,11:50,8.2,8.2,ng/L,4,Y,19030524-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,4/9/2019,11:45,7.9,7.9,ng/L,4,Y,19040286-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,5/7/2019,9:50,10.9,10.9,ng/L,4,Y,19050172-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro hexane sulfonic acid,PFHxS,6/4/2019,11:35,13.3,13.3,ng/L,4,Y,19060084-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,6/14/2016,12:10,2,ND,ng/L,20,N,16060368-19,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,7/5/2016,11:35,2,ND,ng/L,20,N,16070079-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,7/14/2016,9:30,2,ND,ng/L,20,N,16070370-01,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,7/26/2016,8:40,2,ND,ng/L,20,N,16070714-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,8/9/2016,11:55,2,ND,ng/L,20,N,16080311-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,8/23/2016,11:45,0.4,ND,ng/L,4,N,16080703-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,9/6/2016,9:10,0.4,ND,ng/L,4,N,16090097-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,10/17/2016,11:35,7.6,7.6,ng/L,4,Y,16100490-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,11/2/2016,11:30,0.4,ND,ng/L,4,N,16110096-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,1/19/2017,8:30,0.4,ND,ng/L,4,N,17010533-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,2/1/2017,8:45,0.4,ND,ng/L,4,N,17020048-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,2/14/2017,11:45,0.4,ND,ng/L,4,N,17020372-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,2/28/2017,10:45,0.4,ND,ng/L,4,N,17020707-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,3/14/2017,10:30,0.4,ND,ng/L,4,N,17030363-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,3/28/2017,8:45,0.4,ND,ng/L,4,N,17030715-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,4/11/2017,11:50,0.4,ND,ng/L,4,N,17040341-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,4/24/2017,10:50,0.4,ND,ng/L,4,N,17040732-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,4/25/2017,14:15,0.4,ND,ng/L,4,N,17040815-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,5/9/2017,11:30,0.4,ND,ng/L,4,N,17050282-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,5/22/2017,12:05,0.4,ND,ng/L,4,N,17050689-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,6/6/2017,8:50,0.4,ND,ng/L,4,N,17060172-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,6/21/2017,9:25,0.4,ND,ng/L,4,N,17060591-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,6/28/2017,9:20,0.4,ND,ng/L,4,N,17060805-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,7/18/2017,12:10,0.4,ND,ng/L,4,N,17070563-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,8/1/2017,13:00,0.4,ND,ng/L,4,N,17080025-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,8/29/2017,10:10,0.4,ND,ng/L,4,N,17080783-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,9/29/2017,10:30,0.4,ND,ng/L,4,N,17090751-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,10/11/2017,12:40,0.4,ND,ng/L,4,N,17100389-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,11/8/2017,10:20,0.4,ND,ng/L,4,N,17110223-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,11/20/2017,11:40,0.4,ND,ng/L,4,N,17110511-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,1/9/2018,13:30,6.5,6.5,ng/L,4,Y,18010222-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,1/10/2018,9:20,4.4,4.4,ng/L,4,Y,18010262-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,2/21/2018,12:55,0.4,ND,ng/L,4,N,18020589-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,3/6/2018,12:30,2.2,2.2,ng/L,2,Y,440-205458-1,537MOD
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,3/6/2018,12:30,0.4,ND,ng/L,4,N,18030133-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,4/25/2018,10:00,0.4,ND,ng/L,4,N,18040717-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,5/22/2018,14:05,0.4,ND,ng/L,4,N,18050579-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,6/5/2018,11:55,0.4,ND,ng/L,4,N,18060104-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,7/23/2018,10:25,0.4,ND,ng/L,4,N,18070599-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,8/14/2018,11:50,0.4,ND,ng/L,4,N,18080368-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,9/18/2018,12:00,0.4,ND,ng/L,4,N,18090350-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,10/22/2018,12:35,0.4,ND,ng/L,4,N,18100715-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,11/7/2018,9:45,0.4,ND,ng/L,4,N,18110189-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,12/4/2018,13:15,0.4,ND,ng/L,4,N,18120064-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,12/18/2018,13:15,0.4,ND,ng/L,4,N,18120400-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,1/9/2019,14:10,0.4,ND,ng/L,4,N,19010196-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,1/17/2019,14:15,0.4,ND,ng/L,4,N,19010402-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,2/5/2019,13:45,0.4,ND,ng/L,4,N,19020068-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,2/20/2019,13:00,0.4,ND,ng/L,4,N,19020428-02,537
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,3/21/2019,11:50,0.4,ND,ng/L,4,N,19030524-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,4/9/2019,11:45,0.4,ND,ng/L,4,N,19040286-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,5/7/2019,9:50,0.4,ND,ng/L,4,N,19050172-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro nonanoic acid,PFNA,6/4/2019,11:35,0.4,ND,ng/L,4,N,19060084-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,6/14/2016,12:10,4,ND,ng/L,40,N,16060368-19,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,7/5/2016,11:35,4,ND,ng/L,40,N,16070079-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,7/14/2016,9:30,4,ND,ng/L,40,N,16070370-01,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,7/26/2016,8:40,4,ND,ng/L,40,N,16070714-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,8/9/2016,11:55,4,ND,ng/L,40,N,16080311-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,8/23/2016,11:45,10.2,10.2,ng/L,4,Y,16080703-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,9/6/2016,9:10,11.6,11.6,ng/L,4,Y,16090097-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,10/17/2016,11:35,19.6,19.6,ng/L,4,Y,16100490-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,11/2/2016,11:30,11.4,11.4,ng/L,4,Y,16110096-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,1/19/2017,8:30,11.1,11.1,ng/L,4,Y,17010533-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,2/1/2017,8:45,10.1,10.1,ng/L,4,Y,17020048-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,2/14/2017,11:45,10.9,10.9,ng/L,4,Y,17020372-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,2/28/2017,10:45,17.7,17.7,ng/L,4,Y,17020707-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,3/14/2017,10:30,14,14.0,ng/L,4,Y,17030363-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,3/28/2017,8:45,13.2,13.2,ng/L,4,Y,17030715-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,4/11/2017,11:50,16.2,16.2,ng/L,4,Y,17040341-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,4/24/2017,10:50,18.9,18.9,ng/L,4,Y,17040732-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,4/25/2017,14:15,21,21.0,ng/L,4,Y,17040815-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,5/9/2017,11:30,20.6,20.6,ng/L,4,Y,17050282-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,5/22/2017,12:05,17.2,17.2,ng/L,4,Y,17050689-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,6/6/2017,8:50,17,17.0,ng/L,4,Y,17060172-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,6/21/2017,9:25,16.6,16.6,ng/L,4,Y,17060591-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,6/28/2017,9:20,15.8,15.8,ng/L,4,Y,17060805-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,7/18/2017,12:10,15.4,15.4,ng/L,4,Y,17070563-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,8/1/2017,13:00,18,18.0,ng/L,4,Y,17080025-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,8/29/2017,10:10,14.6,14.6,ng/L,4,Y,17080783-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,9/29/2017,10:30,16.2,16.2,ng/L,4,Y,17090751-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,10/11/2017,12:40,14,14.0,ng/L,4,Y,17100389-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,11/8/2017,10:20,16,16.0,ng/L,4,Y,17110223-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,11/20/2017,11:40,11.8,11.8,ng/L,4,Y,17110511-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,1/9/2018,13:30,27.7,27.7,ng/L,4,Y,18010222-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,1/10/2018,9:20,20.9,20.9,ng/L,4,Y,18010262-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,2/21/2018,12:55,20.4,20.4,ng/L,4,Y,18020589-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,3/6/2018,12:30,21,21,ng/L,2,Y,440-205458-1,537MOD
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,3/6/2018,12:30,17.9,17.9,ng/L,4,Y,18030133-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,4/25/2018,10:00,16.7,16.7,ng/L,4,Y,18040717-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,5/22/2018,14:05,18.1,18.1,ng/L,4,Y,18050579-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,6/5/2018,11:55,22,22.0,ng/L,4,Y,18060104-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,7/23/2018,10:25,16.5,16.5,ng/L,4,Y,18070599-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,8/14/2018,11:50,19,19.0,ng/L,4,Y,18080368-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,9/18/2018,12:00,26.2,26.2,ng/L,4,Y,18090350-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,10/22/2018,12:35,17.7,17.7,ng/L,4,Y,18100715-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,11/7/2018,9:45,19,19.0,ng/L,4,Y,18110189-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,12/4/2018,13:15,21.6,21.6,ng/L,4,Y,18120064-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,12/18/2018,13:15,19.4,19.4,ng/L,4,Y,18120400-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,1/9/2019,14:10,21.7,21.7,ng/L,4,Y,19010196-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,1/17/2019,14:15,12.4,12.4,ng/L,4,Y,19010402-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,2/5/2019,13:45,12,12.0,ng/L,4,Y,19020068-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,2/20/2019,13:00,15.8,15.8,ng/L,4,Y,19020428-02,537
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,3/21/2019,11:50,17.7,17.7,ng/L,4,Y,19030524-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,4/9/2019,11:45,17.3,17.3,ng/L,4,Y,19040286-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,5/7/2019,9:50,18.4,18.4,ng/L,4,Y,19050172-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro octane sulfonic acid,PFOS,6/4/2019,11:35,26.5,26.5,ng/L,4,Y,19060084-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,6/14/2016,12:10,2,ND,ng/L,20,N,16060368-19,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,7/5/2016,11:35,2,ND,ng/L,20,N,16070079-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,7/14/2016,9:30,2,ND,ng/L,20,N,16070370-01,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,7/26/2016,8:40,2,ND,ng/L,20,N,16070714-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,8/9/2016,11:55,2,ND,ng/L,20,N,16080311-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,8/23/2016,11:45,12,12.0,ng/L,4,Y,16080703-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,9/6/2016,9:10,17.9,17.9,ng/L,4,Y,16090097-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,10/17/2016,11:35,39.8,39.8,ng/L,4,Y,16100490-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,11/2/2016,11:30,18.8,18.8,ng/L,4,Y,16110096-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,1/19/2017,8:30,10.4,10.4,ng/L,4,Y,17010533-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,2/1/2017,8:45,10.8,10.8,ng/L,4,Y,17020048-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,2/14/2017,11:45,12.3,12.3,ng/L,4,Y,17020372-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,2/28/2017,10:45,20.8,20.8,ng/L,4,Y,17020707-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,3/14/2017,10:30,15,15.0,ng/L,4,Y,17030363-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,3/28/2017,8:45,17.3,17.3,ng/L,4,Y,17030715-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,4/11/2017,11:50,20.6,20.6,ng/L,4,Y,17040341-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,4/24/2017,10:50,22.2,22.2,ng/L,4,Y,17040732-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,4/25/2017,14:15,23.3,23.3,ng/L,4,Y,17040815-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,5/9/2017,11:30,27.5,27.5,ng/L,4,Y,17050282-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,5/22/2017,12:05,22.2,22.2,ng/L,4,Y,17050689-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,6/6/2017,8:50,22.5,22.5,ng/L,4,Y,17060172-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,6/21/2017,9:25,22,22.0,ng/L,4,Y,17060591-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,6/28/2017,9:20,21.7,21.7,ng/L,4,Y,17060805-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,7/18/2017,12:10,21.1,21.1,ng/L,4,Y,17070563-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,8/1/2017,13:00,23.9,23.9,ng/L,4,Y,17080025-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,8/29/2017,10:10,21.8,21.8,ng/L,4,Y,17080783-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,9/29/2017,10:30,21,21.0,ng/L,4,Y,17090751-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,10/11/2017,12:40,25.6,25.6,ng/L,4,Y,17100389-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,11/8/2017,10:20,20.9,20.9,ng/L,4,Y,17110223-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,11/20/2017,11:40,16.4,16.4,ng/L,4,Y,17110511-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,1/9/2018,13:30,30.2,30.2,ng/L,4,Y,18010222-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,1/10/2018,9:20,23.2,23.2,ng/L,4,Y,18010262-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,2/21/2018,12:55,23.1,23.1,ng/L,4,Y,18020589-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,3/6/2018,12:30,20.9,20.9,ng/L,4,Y,18030133-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,3/6/2018,12:30,21,21,ng/L,2,Y,440-205458-1,537MOD
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,4/25/2018,10:00,23,23.0,ng/L,4,Y,18040717-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,5/22/2018,14:05,19.9,19.9,ng/L,4,Y,18050579-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,6/5/2018,11:55,27.1,27.1,ng/L,4,Y,18060104-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,7/23/2018,10:25,20.8,20.8,ng/L,4,Y,18070599-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,8/14/2018,11:50,20.7,20.7,ng/L,4,Y,18080368-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,9/18/2018,12:00,21.7,21.7,ng/L,4,Y,18090350-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,10/22/2018,12:35,20.5,20.5,ng/L,4,Y,18100715-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,11/7/2018,9:45,17.8,17.8,ng/L,4,Y,18110189-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,12/4/2018,13:15,16.8,16.8,ng/L,4,Y,18120064-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,12/18/2018,13:15,17.1,17.1,ng/L,4,Y,18120400-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,1/9/2019,14:10,19.1,19.1,ng/L,4,Y,19010196-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,1/17/2019,14:15,12,12.0,ng/L,4,Y,19010402-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,2/5/2019,13:45,11.6,11.6,ng/L,4,Y,19020068-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,2/20/2019,13:00,14.7,14.7,ng/L,4,Y,19020428-02,537
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,3/21/2019,11:50,17.2,17.2,ng/L,4,Y,19030524-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,4/9/2019,11:45,17.3,17.3,ng/L,4,Y,19040286-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,5/7/2019,9:50,20.8,20.8,ng/L,4,Y,19050172-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro octanoic acid,PFOA,6/4/2019,11:35,20.4,20.4,ng/L,4,Y,19060084-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoro-2-propoxypropanoic acid,GenX,5/22/2018,14:05,0.4,ND,ng/L,4,N,18050579-02,537
+SAR-IMPERIAL-01,Perfluoro-2-propoxypropanoic acid,GenX,7/23/2018,10:25,0.4,ND,ng/L,4,N,18070599-02,537
+SAR-IMPERIAL-01,Perfluoro-2-propoxypropanoic acid,GenX,8/14/2018,11:50,0.4,ND,ng/L,4,N,18080368-02,537
+SAR-IMPERIAL-01,Perfluoro-2-propoxypropanoic acid,GenX,9/18/2018,12:00,0.4,ND,ng/L,4,N,18090350-02,537
+SAR-IMPERIAL-01,Perfluoro-2-propoxypropanoic acid,GenX,10/22/2018,12:35,0.4,ND,ng/L,4,N,18100715-02,537
+SAR-IMPERIAL-01,Perfluoro-2-propoxypropanoic acid,GenX,11/7/2018,9:45,0.4,ND,ng/L,4,N,18110189-02,537
+SAR-IMPERIAL-01,Perfluoro-2-propoxypropanoic acid,GenX,12/4/2018,13:15,0.4,ND,ng/L,4,N,18120064-02,537
+SAR-IMPERIAL-01,Perfluoro-2-propoxypropanoic acid,GenX,12/18/2018,13:15,0.4,ND,ng/L,4,N,18120400-02,537
+SAR-IMPERIAL-01,Perfluoro-2-propoxypropanoic acid,GenX,1/9/2019,14:10,0.4,ND,ng/L,4,N,19010196-02,537
+SAR-IMPERIAL-01,Perfluoro-2-propoxypropanoic acid,GenX,1/17/2019,14:15,0.4,ND,ng/L,4,N,19010402-02,537
+SAR-IMPERIAL-01,Perfluoro-2-propoxypropanoic acid,GenX,2/5/2019,13:45,0.4,ND,ng/L,4,N,19020068-02,537
+SAR-IMPERIAL-01,Perfluoro-2-propoxypropanoic acid,GenX,2/20/2019,13:00,0.4,ND,ng/L,4,N,19020428-02,537
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,5/22/2018,14:05,0.4,ND,ng/L,4,N,18050579-02,537
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,7/23/2018,10:25,0.4,ND,ng/L,4,N,18070599-02,537
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,8/14/2018,11:50,0.4,ND,ng/L,4,N,18080368-02,537
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,9/18/2018,12:00,0.4,ND,ng/L,4,N,18090350-02,537
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,10/22/2018,12:35,0.4,ND,ng/L,4,N,18100715-02,537
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,11/7/2018,9:45,0.4,ND,ng/L,4,N,18110189-02,537
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,12/4/2018,13:15,0.4,ND,ng/L,4,N,18120064-02,537
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,12/18/2018,13:15,0.4,ND,ng/L,4,N,18120400-02,537
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,1/9/2019,14:10,0.4,ND,ng/L,4,N,19010196-02,537
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,1/17/2019,14:15,0.4,ND,ng/L,4,N,19010402-02,537
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,2/5/2019,13:45,0.4,ND,ng/L,4,N,19020068-02,537
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,2/20/2019,13:00,0.4,ND,ng/L,4,N,19020428-02,537
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,3/21/2019,11:50,0.4,ND,ng/L,4,N,19030524-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,4/9/2019,11:45,0.4,ND,ng/L,4,N,19040286-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,5/7/2019,9:50,0.4,ND,ng/L,4,N,19050172-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorodecanoic acid,PFDA,6/4/2019,11:35,0.4,ND,ng/L,4,N,19060084-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,5/22/2018,14:05,0.4,ND,ng/L,4,N,18050579-02,537
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,7/23/2018,10:25,0.4,ND,ng/L,4,N,18070599-02,537
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,8/14/2018,11:50,0.4,ND,ng/L,4,N,18080368-02,537
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,9/18/2018,12:00,0.4,ND,ng/L,4,N,18090350-02,537
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,10/22/2018,12:35,0.4,ND,ng/L,4,N,18100715-02,537
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,11/7/2018,9:45,0.4,ND,ng/L,4,N,18110189-02,537
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,12/4/2018,13:15,0.4,ND,ng/L,4,N,18120064-02,537
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,12/18/2018,13:15,0.4,ND,ng/L,4,N,18120400-02,537
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,1/9/2019,14:10,0.4,ND,ng/L,4,N,19010196-02,537
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,1/17/2019,14:15,0.4,ND,ng/L,4,N,19010402-02,537
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,2/5/2019,13:45,0.4,ND,ng/L,4,N,19020068-02,537
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,2/20/2019,13:00,0.4,ND,ng/L,4,N,19020428-02,537
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,3/21/2019,11:50,0.4,ND,ng/L,4,N,19030524-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,4/9/2019,11:45,0.4,ND,ng/L,4,N,19040286-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,5/7/2019,9:50,0.4,ND,ng/L,4,N,19050172-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorododecanoic acid,PFDoA,6/4/2019,11:35,0.4,ND,ng/L,4,N,19060084-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,5/22/2018,14:05,24.9,24.9,ng/L,4,Y,18050579-02,537
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,7/23/2018,10:25,20.1,20.1,ng/L,4,Y,18070599-02,537
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,8/14/2018,11:50,18.3,18.3,ng/L,4,Y,18080368-02,537
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,9/18/2018,12:00,29.8,29.8,ng/L,4,Y,18090350-02,537
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,10/22/2018,12:35,25,25.0,ng/L,4,Y,18100715-02,537
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,11/7/2018,9:45,23.2,23.2,ng/L,4,Y,18110189-02,537
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,12/4/2018,13:15,28.6,28.6,ng/L,4,Y,18120064-02,537
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,12/18/2018,13:15,22.2,22.2,ng/L,4,Y,18120400-02,537
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,1/9/2019,14:10,23.2,23.2,ng/L,4,Y,19010196-02,537
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,1/17/2019,14:15,9.3,9.3,ng/L,4,Y,19010402-02,537
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,2/5/2019,13:45,10,10.0,ng/L,4,Y,19020068-02,537
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,2/20/2019,13:00,14,14.0,ng/L,4,Y,19020428-02,537
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,3/21/2019,11:50,19.6,19.6,ng/L,4,Y,19030524-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,4/9/2019,11:45,22.2,22.2,ng/L,4,Y,19040286-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,5/7/2019,9:50,27.3,27.3,ng/L,4,Y,19050172-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorohexanoic acid,PFHxA,6/4/2019,11:35,25.2,25.2,ng/L,4,Y,19060084-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,5/22/2018,14:05,0.4,ND,ng/L,4,N,18050579-02,537
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,7/23/2018,10:25,0.4,ND,ng/L,4,N,18070599-02,537
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,8/14/2018,11:50,0.4,ND,ng/L,4,N,18080368-02,537
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,9/18/2018,12:00,0.4,ND,ng/L,4,N,18090350-02,537
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,10/22/2018,12:35,0.4,ND,ng/L,4,N,18100715-02,537
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,11/7/2018,9:45,0.4,ND,ng/L,4,N,18110189-02,537
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,12/4/2018,13:15,0.4,ND,ng/L,4,N,18120064-02,537
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,12/18/2018,13:15,0.4,ND,ng/L,4,N,18120400-02,537
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,1/9/2019,14:10,1,ND,ng/L,10,N,19010196-02,537
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,1/17/2019,14:15,1,ND,ng/L,10,N,19010402-02,537
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,2/5/2019,13:45,0.4,ND,ng/L,4,N,19020068-02,537
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,2/20/2019,13:00,0.4,ND,ng/L,4,N,19020428-02,537
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,3/21/2019,11:50,0.4,ND,ng/L,4,N,19030524-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,4/9/2019,11:45,0.4,ND,ng/L,4,N,19040286-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,5/7/2019,9:50,0.4,ND,ng/L,4,N,19050172-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorotetradecanoic acid,PFTA,6/4/2019,11:35,0.4,ND,ng/L,4,N,19060084-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,5/22/2018,14:05,0.4,ND,ng/L,4,N,18050579-02,537
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,7/23/2018,10:25,0.4,ND,ng/L,4,N,18070599-02,537
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,8/14/2018,11:50,0.4,ND,ng/L,4,N,18080368-02,537
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,9/18/2018,12:00,0.4,ND,ng/L,4,N,18090350-02,537
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,10/22/2018,12:35,0.4,ND,ng/L,4,N,18100715-02,537
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,11/7/2018,9:45,0.4,ND,ng/L,4,N,18110189-02,537
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,12/4/2018,13:15,0.4,ND,ng/L,4,N,18120064-02,537
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,12/18/2018,13:15,0.4,ND,ng/L,4,N,18120400-02,537
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,1/9/2019,14:10,0.4,ND,ng/L,4,N,19010196-02,537
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,1/17/2019,14:15,0.4,ND,ng/L,4,N,19010402-02,537
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,2/5/2019,13:45,0.4,ND,ng/L,4,N,19020068-02,537
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,2/20/2019,13:00,0.4,ND,ng/L,4,N,19020428-02,537
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,3/21/2019,11:50,0.4,ND,ng/L,4,N,19030524-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,4/9/2019,11:45,0.4,ND,ng/L,4,N,19040286-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,5/7/2019,9:50,0.4,ND,ng/L,4,N,19050172-02,537RV1.1
+SAR-IMPERIAL-01,Perfluorotridecanoic acid,PFTrDA,6/4/2019,11:35,0.4,ND,ng/L,4,N,19060084-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,5/22/2018,14:05,0.4,ND,ng/L,4,N,18050579-02,537
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,7/23/2018,10:25,0.4,ND,ng/L,4,N,18070599-02,537
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,8/14/2018,11:50,0.4,ND,ng/L,4,N,18080368-02,537
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,9/18/2018,12:00,0.4,ND,ng/L,4,N,18090350-02,537
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,10/22/2018,12:35,0.4,ND,ng/L,4,N,18100715-02,537
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,11/7/2018,9:45,0.4,ND,ng/L,4,N,18110189-02,537
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,12/4/2018,13:15,0.4,ND,ng/L,4,N,18120064-02,537
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,12/18/2018,13:15,0.4,ND,ng/L,4,N,18120400-02,537
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,1/9/2019,14:10,0.4,ND,ng/L,4,N,19010196-02,537
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,1/17/2019,14:15,0.4,ND,ng/L,4,N,19010402-02,537
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,2/5/2019,13:45,0.4,ND,ng/L,4,N,19020068-02,537
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,2/20/2019,13:00,0.4,ND,ng/L,4,N,19020428-02,537
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,3/21/2019,11:50,0.4,ND,ng/L,4,N,19030524-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,4/9/2019,11:45,0.4,ND,ng/L,4,N,19040286-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,5/7/2019,9:50,0.4,ND,ng/L,4,N,19050172-02,537RV1.1
+SAR-IMPERIAL-01,Perfluoroundecanoic acid,PFUnA,6/4/2019,11:35,0.4,ND,ng/L,4,N,19060084-02,537RV1.1
