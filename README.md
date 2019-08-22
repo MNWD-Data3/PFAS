@@ -7,6 +7,6 @@ Data sources:
 •	  Historic data for US Army Corps dams in Santa Ana River watershed up to last 180 days (data depends on which dam - may be up to inflow to dam, water surface elevation, outflow):http://resreg.spl.usace.army.mil/cgi-bin/slLatestBasin.cgi?sar+elev
 •	County of Orange has a website with precip data (ditto for Riverside and SB counties): http://www.ocwatersheds.com/monitoring/hydrology
 •	USGS stream gauge data for CA: https://waterdata.usgs.gov/ca/nwis/rt
-•	Local surface water PFAS dataset – github repo link will be available prior to the datathon event day
+•	Local surface water PFAS dataset – available on github repo link 
  
 
