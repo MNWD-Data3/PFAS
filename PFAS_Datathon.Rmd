@@ -1,20 +1,26 @@
 ---
-title: "PFAS"
+title: "PFAS: What Do We Know?"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(message = F)
+knitr::opts_chunk$set(warning = F)
 library(tidyverse)
 library(plotly)
+library(data.table)
 ```
-
-# PF*S: What Do We Know?
 
 
 ```{r read_data}
-setwd <- "C:/Users/Leah/Documents/Datathon_PFAS/"
-SAR_all <- read.csv("SAR_537Data_20190808_All.csv", header = T)
+#setwd <- "C:/Users/Leah/Documents/Datathon_PFAS/"
+gama_all <- fread("C:/Users/Leah/Documents/Datathon_PFAS/gama_all_orange.txt")
+gama_all$DATE <- as.Date(gama_all$DATE, "%m/%d/%Y")
+gama_all$YEAR <- year(gama_all$DATE)
+gama_recent <- gama_all[which(gama_all$YEAR > 2009),]
+gama_pf <- gama_all[which(gama_all$YEAR > 2009 & grepl("PF", gama_all$CHEMICAL)),]
+SAR_all <- read.csv("C:/Users/Leah/Documents/Datathon_PFAS/SAR_537Data_20190808_All.csv", header = T)
 names(SAR_all) <- c("Station", "Parameter_FullName", "Param_abv", "Date", "Time", "ResultVal10_ND", 
                     "Result_txt", "Units", "RDL", "Detect_YN", "LabSampNum", "Method")
 SAR_all$Result <- as.character(SAR_all$Result_txt)
@@ -31,6 +37,7 @@ SAR_all$Date <- as.Date(SAR_all$Date, "%m/%d/%Y")
 ggplotly(
    ggplot(SAR_all[grepl("^PF", SAR_all$Param_abv),]) +
         geom_line(aes(x=Date, y=Result, group = Param_abv, color = Param_abv)) +
+        geom_point(aes(x=Date, y=Result, group = Param_abv, color = Param_abv)) +
         scale_colour_viridis_d("Parameter") +
         labs(#title = "Childs Meadow All Years",
              x = "Sample Date", y = "Concentration") +
@@ -52,6 +59,7 @@ ggplotly(
 ggplotly(
    ggplot(SAR_all[grepl("^PFO", SAR_all$Param_abv),]) +
         geom_line(aes(x=Date, y=Result, group = Param_abv, color = Param_abv)) +
+        geom_point(aes(x=Date, y=Result, group = Param_abv, color = Param_abv)) +
         scale_colour_viridis_d("Parameter",end = 0.7) +
         labs(#title = "Childs Meadow All Years",
              x = "Sample Date", y = "Concentration") +
@@ -100,5 +108,32 @@ ggplotly(
    ) %>% 
       rangeslider(start = 1, end = 365)
   
+```
+
+## Orange County Well Locations
+
+```{r}
+library(mapview)
+library(sf)
+library(viridis)
+gama_pf <- rename(gama_pf, lat = `APPROXIMATE LATITUDE`, long = `APPROXIMATE LONGITUDE`)
+crs <- "+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"
+pf_sf <- st_as_sf(x = gama_pf,                         
+           coords = c("long", "lat"),
+           crs = crs)
+mapview(pf_sf, basemaps = "OpenStreetMap")
+```
+
+## PFOA Concentrations
+
+```{r}
+mapview(pf_sf[which(pf_sf$CHEMICAL == "PFOA"),], zcol = "RESULTS", vector.palette = "viridis", legend = F, native.crs = T, basemaps = "CartoDB.Positron", crs = crs)
+```
+
+
+## PFOS Concentrations
+
+```{r}
+mapview(pf_sf[which(pf_sf$CHEMICAL == "PFOS"),], zcol = "RESULTS", vector.palette = "viridis", legend = F)
 ```
 
