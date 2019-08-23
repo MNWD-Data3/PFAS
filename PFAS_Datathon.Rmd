@@ -78,6 +78,7 @@ ggplotly(
 SAR_all$YYYY <- as.factor(lubridate::year(SAR_all$Date))
 SAR_all$DOY <- lubridate::yday(SAR_all$Date)
 SAR_PFOA <- filter(SAR_all, Param_abv == "PFOA")
+SAR_PFOA[which(SAR_PFOA$YYYY > 2016),]
 ggplotly(
    ggplot(SAR_PFOA) +
         geom_line(aes(x=DOY, y=Result, group = as.factor(YYYY), color = YYYY)) +
@@ -92,10 +93,12 @@ ggplotly(
   
 ```
 
+
 ## PFOS By Year
 
 ```{r}
 SAR_PFOS <- filter(SAR_all, Param_abv == "PFOS")
+SAR_PFOS[which(SAR_PFOS$YYYY > 2016),]
 ggplotly(
    ggplot(SAR_PFOS) +
         geom_line(aes(x=DOY, y=Result, group = as.factor(YYYY), color = YYYY)) +
@@ -109,6 +112,34 @@ ggplotly(
       rangeslider(start = 1, end = 365)
   
 ```
+
+```{r, eval = F}
+## Precipitation 
+precip <- read.csv("oc_merged.csv", header = T)
+precip_pf <- precip[which(grepl("PF", precip$CHEMICAL)),]
+precip_pf$DATE <- as.Date(precip_pf$DATE, "%Y-%m-%d")
+
+precip_pf <- rename(precip_pf, Station = `WELL.ID`, Date = DATE, Param_abv = CHEMICAL)
+
+ppf <- precip_pf[grepl("^PF", precip_pf$Param_abv),]
+ggplotly(
+   ggplot(ppf) +
+        geom_line(aes(x=Date, y=RESULTS, group = Param_abv, color = Param_abv)) +
+        geom_point(aes(x=Date, y=RESULTS, group = Param_abv, color = Param_abv)) +
+        geom_line(aes(x=Date, y=PRCP)) +
+        scale_colour_viridis_d("Parameter") +
+        labs(#title = "Childs Meadow All Years",
+             x = "Sample Date", y = "Concentration") +
+        theme_bw()
+    
+#    , tooltip = "text")  
+   ) %>% 
+      rangeslider(start = min(as.numeric(ppf$Date)), 
+                  end = max(as.numeric(ppf$Date)))
+
+  
+```
+
 
 ## Orange County Well Locations
 
