@@ -1,0 +1,10 @@
+Station Name,Parameter Name,Parameter Abbreviation,Sample Date,Sample Time,Result Value (10% of RDL for NDs),Result Text,Units,RDL,Detected (Y: Yes; N: No),Laboratory Sample Number,Method
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,1/9/2019,14:10,0.4,ND,ng/L,4,N,19010196-02,537
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,1/17/2019,14:15,0.4,ND,ng/L,4,N,19010402-02,537
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,2/5/2019,13:45,0.4,ND,ng/L,4,N,19020068-02,537
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,2/20/2019,13:00,0.4,ND,ng/L,4,N,19020428-02,537
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,3/21/2019,11:50,0.4,ND,ng/L,4,N,19030524-02,537RV1.1
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,4/9/2019,11:45,0.4,ND,ng/L,4,N,19040286-02,537RV1.1
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,5/7/2019,9:50,0.4,ND,ng/L,4,N,19050172-02,537RV1.1
+SAR-IMPERIAL-01,N-ethyl perfluorooctanesulfonamidoacetic acid,EtFOSA,6/4/2019,11:35,0.4,ND,ng/L,4,N,19060084-02,537RV1.1
+,,,,,,,,,,,
