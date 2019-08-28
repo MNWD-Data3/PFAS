@@ -1,0 +1,86 @@
+---
+title: "WaterPCA"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# install.packages("ICSNP")
+# install.packages("devtools")
+# install.packages("rrcov")
+# install.packages("scatterplot2d")
+# library(devtools)
+# install_github("vqv/ggbiplot")
+library(ggbiplot)
+# library(ICSNP)
+# install.packages('dplyr')
+# library(dbplyr)
+```
+
+```{r}
+data <- read.csv("/Users/christopherton/Documents/PFAS/All-Table\ 1.csv",header=TRUE,sep=",")
+names(data) <- c("Station", "Parameter_FullName", "Param_abv", "Date", "Time", "ResultVal10_ND", 
+                    "Result_txt", "Units", "RDL", "Detect_YN", "LabSampNum", "Method")
+options(scipen=999)
+data$Result_txt <- as.character(data$Result_txt)
+data$Result_txt[data$Result_txt == "ND"] <- 0.000001
+#data$Result_txt
+data$Result_txt <- as.numeric(as.character(data$Result_txt))
+split <- split(data, with(data, interaction(Param_abv)), drop = TRUE)
+
+d<-split$PFOA$Date #Dates are the same for all
+oa<-split$PFOA$Result_txt
+os<-split$PFOS$Result_txt
+bs<-split$PFBS$Result_txt
+pa<-split$PFHpA$Result_txt
+xs<-split$PFHxS$Result_txt
+na<-split$PFNA$Result_txt
+
+chemdf <- data.frame(d,oa,os,bs,pa,xs,na)
+
+```
+
+## PCA only for PFOA,PFOS,PFBS,PFHpA,PFHxS,PFNA
+
+```{r}
+chemdf.var <- sqrt(diag(var(chemdf[-1])))
+chemdf.pc <- princomp(chemdf[-1],cor=T)
+summary(chemdf,loadings=T) #quantiles
+
+(chemdf.pc$sdev)^2 #Comp.1     Comp.2     Comp.3     Comp.4     Comp.5     Comp.6 
+                  #4.28613536 1.23826016 0.17939056 0.16948921 0.09090600 0.03581871 
+
+plot(1:(length(chemdf.pc$sdev)),  (chemdf.pc$sdev)^2, type='b', 
+     main="Scree Plot", xlab="Number of Components", ylab="Eigenvalue Size")
+
+#Since the "elbow" occurs at the 2nd position, the reasonable number of principal components to use is 2
+par(pty="s")
+plot(chemdf.pc$scores[,1], chemdf.pc$scores[,2], 
+     xlab="PC 1", ylab="PC 2", type ='n', lwd=2)
+# labeling points with state abbreviations:
+text(chemdf.pc$scores[,1], chemdf.pc$scores[,2], cex=0.7, lwd=2)
+biplot(chemdf.pc)
+```
+
+## PCA (a variation)
+
+```{r}
+chemdf2.pca <- prcomp(chemdf[,-1], center = TRUE, scale = TRUE)
+summary(chemdf2.pca)
+
+#Plotting the PC scores for the sample data in the space of the first two principal components
+ggbiplot(chemdf2.pca)
+ggbiplot(chemdf2.pca, labels=rownames(chemdf))
+```
+
+```{r}
+chemdf2 <- rbind(oa,os,bs,pa,xs,na)
+chemdf2.results <- c(rep('PFOA',53),rep('PFOS',53),rep('PFBS',53),rep('PFHpA',53),rep('PFHxS',53),rep('PFNA',53))
+
+
+ggbiplot(chemdf.pca,ellipse=TRUE, groups=chemdf2.results)
+
+ggbiplot(chemdf.pca,ellipse=TRUE,choices=c(3,4), groups=chemdf2.results)
+
+```
